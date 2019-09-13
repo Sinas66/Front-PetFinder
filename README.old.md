@@ -1,3 +1,0 @@
-# Front-PetFinder
-
-Front-PetFinder

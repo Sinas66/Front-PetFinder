@@ -1,0 +1,6 @@
+build/
+dist/
+# src/
+# *.js
+src/serviceWorker.js
+
